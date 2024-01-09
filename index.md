@@ -12,11 +12,10 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Project 1
 
-Fraud Detection
+Python Bootcamp
+https://github.com/vaibhavk14/Complete-Python-3-Bootcamp
 
-## Project 2
 
-Time Series
 
 ### Header 3
 
